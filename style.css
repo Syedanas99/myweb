@@ -1,0 +1,363 @@
+
+
+
+
+.container-fluid {
+    max-width: 1070px;
+    padding: 0px 20px;
+ }
+
+ .nav-link{
+   color: rgb(5, 4, 5) !important;
+   
+ }
+ .collapse{
+ justify-content: space-around;
+ }
+ .fofana{
+  padding-right: 150px;
+ }
+ .navbar-nav {
+    gap: 30px;
+    
+ }
+ #navbarNavAltMarkup{
+    margin-top: 20px;
+ }
+
+ .hover{
+    width: 10%;
+    height: 45px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(243, 92, 10); 
+    color: black; 
+    border: 2px solid #e88121;
+  }
+  .hover:hover{
+    background-color: #090908;
+    color: rgb(248, 112, 8);
+  }
+ .hover a{
+    text-decoration: none !important;
+    display: block !important;
+    color:white !important;
+    
+    
+ }
+/* ========================= */
+.baner{
+background-image: url(images/slide-v1-3.jpg);
+height: 500px;
+width: 100%;
+}
+.hero-1 h1{
+    font-size: 70px;
+    padding-top: 50px;
+    color: white;
+}
+.hero-1 p{
+    font-size: 20px;
+    padding-top: 40px;
+    color: white;
+}
+
+
+/* ==========button======== */
+
+.hover{
+    width: 20%;
+    height: 45px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(206, 245, 34); 
+    color: black; 
+    border: 2px solid #efe80d;
+  }
+  .hover:hover{
+    background-color: #090908;
+    color: rgb(225, 233, 12);
+   
+  }
+ .hover a{
+    text-decoration: none !important;
+    display: block !important;
+    color:white !important;
+ }
+
+ /* ====================cards============== */
+
+ #cards{
+    background-color: rgb(254, 247, 254);
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.open-cards h1{
+font-size: 60px;
+margin-bottom: 40px;
+}
+.open-cards h4{
+    color: orangered;
+}
+
+
+.open{
+    border: 1px solid;
+    border: none;
+    height: 105%;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 50px;
+    box-shadow: 0px 3px 10px 2px gray
+ }
+.open-2{
+    border: 1px solid;
+    border: none;
+    height: 105%;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 50px;
+    box-shadow: 0px 3px 10px 2px gray;
+ 
+    
+}
+  
+.open p{
+    font-size: 18px;
+}
+.open h1{
+    font-size: 40px;
+    color: orange;
+}
+.open h4{
+    padding-top: 40px;
+}
+.open-2 h4{
+    padding-top: 40px;
+}
+
+
+.price{
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(243, 92, 10); 
+    color: black; 
+    border: 2px solid #e88121;
+
+}
+.price:hover{
+    background-color: #090908;
+    color: rgb(248, 112, 8);
+}
+
+
+.price-1{
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    background-color: rgb(214, 244, 26); 
+    color: black; 
+    border: 2px solid #e96907;
+}
+.price-1:hover{
+    background-color: #090908;
+    color: rgb(248, 112, 8);
+}
+
+.price a{
+    
+    text-decoration: none !important;
+    display: block !important;
+    color:white !important;
+}
+.price-1 a{
+    
+    text-decoration: none !important;
+    display: block !important;
+    color:white !important;
+}
+.hr{
+    color: aqua;
+}
+
+.open-1{
+    border: 1px solid;
+    border: none;
+    height: 105%;
+    border-radius: 10px;
+    background-color: rgb(72, 69, 69);
+    padding-left: 50px;
+    box-shadow: 0px 3px 10px 2px gray;
+
+}
+.open-1 p{
+    color: white;
+}
+.open-1 h1{
+    color: orange;
+}
+.open-1 h4{
+    color: white;
+}
+
+.open-1 h4{
+    padding-top: 40px;
+}
+
+
+/* ===============three============== */
+.force img{
+    border-radius: 200px;
+
+}
+
+.ready h1{
+    padding-top: 20px;
+    font-size: 55px;
+}
+.ready p{
+    padding-top: 30px;
+}
+
+.gon{
+    width: 40%;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(243, 92, 10); 
+    color: black; 
+    border: 2px solid #e88121;
+    margin-top: 30px;
+}
+
+
+
+/* =====================hope================= */
+
+#back-1{
+    padding-top: 100px;
+}
+.hope img{
+width: 100%;
+}
+.ready-2 h1{
+    font-size: 35px;
+    padding-top: 40px;
+}
+
+.ready-2 p{
+    font-size: 15px;
+}
+.ready-2{
+    border: 1px solid;
+    border: none;
+    height: 70%;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 50px;
+    margin-top: 50px;
+
+    box-shadow: 0px 3px 10px 2px rgb(236, 210, 210);
+}
+
+
+/* ================hero ki website==================== */
+
+.hero h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.only img{
+    width: 100px;
+    /* padding-right: 30px; */
+    margin-top: 20px;
+}
+.only{  
+     
+     border: 1px solid;
+     border: none;
+     height: 100%;
+     width: 100%;
+     border-radius: 2px;
+     background-color: white;
+     padding-left: 100px;
+     box-shadow: 0px 3px 10px 2px gray;
+     margin-top: 50px;
+     
+}
+.only:hover{
+    background-color: rgb(222, 87, 9);
+    color: rgb(7, 7, 7);
+  }
+.only p{
+    padding-right: 20px;
+}
+
+/* ================clint ================ */
+#baby{
+    margin-top: 50px;
+}
+.clint h1{
+    text-align: center;
+}
+.clint-1{
+    border: 1px solid;
+    border: none;
+    height: 100%;
+    width: 100%;
+    border-radius: 2px;
+    background-color: white;
+    padding-left: 50px;
+    box-shadow: 0px 3px 10px 2px gray;
+    margin-top: 50px;
+}
+.clint-1 img{
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.clint-1 p{
+    margin-top: 20px;
+}
+.baby img{
+    width: 40%;
+}
+
+/* ====================last============ */
+#last{
+    margin-top: 100px;
+}
+.clint-10 img{
+    width: 100%;
+
+}
+
+.clint-hero{
+    text-align: center;
+}
+.clint-10{
+    padding-top: 50px;
+}
+
+/* ================footer================ */
+
+#footers{
+    margin-top: 50px;
+    background-color: rgb(43, 40, 40);
+    padding-top: 60px;
+}
+.footer p{
+color: white;
+}
+.footer h4{
+    color: white;
+}
+
+
+
+  
